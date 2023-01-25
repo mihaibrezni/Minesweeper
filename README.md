@@ -4,7 +4,8 @@ This is a popular board game shipped with many operating systems by default. The
 The game consists of two classes:
 -  Board
 -  Minesweeper.
--   We have thirteen images in the src/resources directory.
+
+Also, we have thirteen images in the src/resources directory.
 
 There are thirteen images used in this game. A cell can be surrounded by maximum of eight mines, so we need numbers one through eight. We need images for an empty cell, a mine, a covered cell, a marked cell and finally for a wrongly marked cell. The size of each of the images is 15x15 px.
 
